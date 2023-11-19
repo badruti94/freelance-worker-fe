@@ -1,0 +1,9 @@
+post /job when no image
+refactor: name --> title
+detail ke home page
+refactor: item --> job
+
+# cari-rumah
+page item. yang ditampilkan hanya milik si user
+refactor: item --> house
+patch(`/house/${id}/sold --> {}
